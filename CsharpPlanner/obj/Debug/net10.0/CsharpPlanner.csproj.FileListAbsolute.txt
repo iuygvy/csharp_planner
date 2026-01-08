@@ -1,0 +1,15 @@
+C:\Users\fatch\Desktop\wp\csharp_planner\CsharpPlanner\bin\Debug\net10.0\CsharpPlanner.exe
+C:\Users\fatch\Desktop\wp\csharp_planner\CsharpPlanner\bin\Debug\net10.0\CsharpPlanner.deps.json
+C:\Users\fatch\Desktop\wp\csharp_planner\CsharpPlanner\bin\Debug\net10.0\CsharpPlanner.runtimeconfig.json
+C:\Users\fatch\Desktop\wp\csharp_planner\CsharpPlanner\bin\Debug\net10.0\CsharpPlanner.dll
+C:\Users\fatch\Desktop\wp\csharp_planner\CsharpPlanner\bin\Debug\net10.0\CsharpPlanner.pdb
+C:\Users\fatch\Desktop\wp\csharp_planner\CsharpPlanner\obj\Debug\net10.0\CsharpPlanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatch\Desktop\wp\csharp_planner\CsharpPlanner\obj\Debug\net10.0\CsharpPlanner.AssemblyInfoInputs.cache
+C:\Users\fatch\Desktop\wp\csharp_planner\CsharpPlanner\obj\Debug\net10.0\CsharpPlanner.AssemblyInfo.cs
+C:\Users\fatch\Desktop\wp\csharp_planner\CsharpPlanner\obj\Debug\net10.0\CsharpPlanner.csproj.CoreCompileInputs.cache
+C:\Users\fatch\Desktop\wp\csharp_planner\CsharpPlanner\obj\Debug\net10.0\CsharpPlanner.sourcelink.json
+C:\Users\fatch\Desktop\wp\csharp_planner\CsharpPlanner\obj\Debug\net10.0\CsharpPlanner.dll
+C:\Users\fatch\Desktop\wp\csharp_planner\CsharpPlanner\obj\Debug\net10.0\refint\CsharpPlanner.dll
+C:\Users\fatch\Desktop\wp\csharp_planner\CsharpPlanner\obj\Debug\net10.0\CsharpPlanner.pdb
+C:\Users\fatch\Desktop\wp\csharp_planner\CsharpPlanner\obj\Debug\net10.0\CsharpPlanner.genruntimeconfig.cache
+C:\Users\fatch\Desktop\wp\csharp_planner\CsharpPlanner\obj\Debug\net10.0\ref\CsharpPlanner.dll
